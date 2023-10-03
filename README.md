@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nathan Miriki
-- 👀 I’m interested in becoming a software developer
+- 👀 I’m interested in becoming a software engineer 
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at nathanmiriki24@gmail.com
 
 <!---
