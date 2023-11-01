@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Nathan Miriki
-- 👀 I’m interested in becoming a software engineer 
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me at nathanmiriki24@gmail.com
+- 👋 Hi, I’m Nathan Miriki 
+- 🌱 I'm a junior at the University of Central Florida and I'm currenly studying computer science
+- 🤹🏽 My skill set includes OOPS, DBMS, and full-stack web development
+- 📫 You can reach me at nathanmiriki24@gmail.com
+- Here is a link to my Linkedin: [http://www.linkedin.com/in/nathan-miriki-63b78b209](url)
 
 <!---
 nathanM24/nathanM24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
